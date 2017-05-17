@@ -8,4 +8,4 @@ build:
 
 
 install:
-	$(INSTALLDATA) ./file-replace $(INSTALLDIR)
+	$(INSTALLDATA) ./find-replace $(INSTALLDIR)
